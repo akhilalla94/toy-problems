@@ -1,7 +1,7 @@
 from lru import lru
 
 
-class lruTEST:
+class lruTest:
 
     def __init__(self):
         pass
@@ -20,5 +20,5 @@ class lruTEST:
 
 
 if __name__ == "__main__":
-    a = lruTEST()
+    a = lruTest()
     a.testcases()

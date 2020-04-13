@@ -6,7 +6,7 @@ class lru:
   def get(self, key, default=None):
       
       pass
-  def put(self, key, data):
+  def put(self, key):
 
       pass
         
