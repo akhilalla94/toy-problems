@@ -8,7 +8,6 @@ function countBs(s) {
   }
   console.log(countBs("ABBBCCCBBBA"));
 
-  
   function countChar(s, c) {
     var count = 0; 
     for (var i = 0; i < s.length; i += 1) {
